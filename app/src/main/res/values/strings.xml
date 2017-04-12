@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JNIExample</string>
+    <string name="character_count">Character count:</string>
+</resources>
